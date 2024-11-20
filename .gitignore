@@ -1,0 +1,30 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment directories
+venv/
+env/
+*.env
+*.venv
+
+# IDE or editor-specific files (e.g., VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Dataset files (if you're not including them in the repo)
+data/
+*.csv
+*.xlsx
+
+# Temporary or OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
